@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">maps4</string>
+    <string name="title_activity_maps">My Location</string>
+    <string name="title_activity_main">ParkIt</string>
+    <string name="search">search</string>
+    <string name="settings">settings</string>
+</resources>
